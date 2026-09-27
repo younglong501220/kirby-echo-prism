@@ -1,0 +1,6 @@
+{
+  "name": "鏡界光靈：碎片迷宮 (Echo of the Prism)",
+  "description": "致敬《星之卡比 鏡之大迷宮》的銀河惡魔城橫向捲軸冒險遊戲。支援吸入與多種複製能力、通訊器呼叫 3 位分身隊友、環境元素解謎與探索 8 大鏡之碎片領域。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
